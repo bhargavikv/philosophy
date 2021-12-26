@@ -5,13 +5,10 @@ Let us say a few words about Homer.
 Most likely, he lived around the 8th century BC and told the story about the Trojan War, which had taken place 200-300 years before. However, we saw a documented version of the Iliad and the Odyssey in the 6th century BC only, two centuries after the approximate date of Homer's death. And of course, there is a question of the authorship of the Iliad and the Odyssey. According to one theory, they were created by wandering poets that told myths. You remember that the Iliad describes the 10th year of the siege of Troy (in reality, there were slightly more than 50 days of the siege.) And the Odyssey tells the story of Odysseus, on his way back home to Ithaka after the Trojan War. We see pieces of general myths, which were familiar to all ancient Greeks.
 </p>
 <p>
-
-         Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, 
+Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, 
 </p>
-
-
-         <b>"the entire European literature is divided into the Iliad and the Odyssey."</b> 
-
+        the entire European literature is divided into the Iliad and the Odyssey.
+<p>
 And there is an element of truth in this phrase. He formed the  cultural paradigms that can be found in the medieval journey of a soul to God, in Dante's Divine Comedy, in Goethe's Faust, in Joyce's Ulysses, in Don Quixote: they all narrate about a path. A European is an eternal traveler, an ever-returning prodigal son. It is all encompassed in the tradition of the development of Odysseus's image. And Homer's contribution is paramount here. Let me tell you a few words about his texts. First of all, they delineate real gods, letting the reader actually grasp what human-like gods were like. Gods were participants of wars. They helped humans and gave them weapons, fought, and reconciled. That means, gods took an active part in the events of the Iliad and the Odyssey. I must say, Homer's texts were written in a language no 
 one spoke. To be more accurate, they combine almost all dialects of the ancient world. It wasn't the language of a particular island or a polis. 
 Essentially, Homer created a universal compilation. This is why there are questions about whether it was one person or a group of poets, whose art goes by 
