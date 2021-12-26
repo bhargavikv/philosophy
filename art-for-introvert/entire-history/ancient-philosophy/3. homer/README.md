@@ -7,6 +7,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 <p>
 Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, 
 </p>
+
         the entire European literature is divided into the Iliad and the Odyssey.
 
 <p>
