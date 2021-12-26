@@ -4,11 +4,9 @@ Let us say a few words about Homer.
 <p>
 Most likely, he lived around the 8th century BC and told the story about the Trojan War, which had taken place 200-300 years before. However, we saw a documented version of the Iliad and the Odyssey in the 6th century BC only, two centuries after the approximate date of Homer's death. And of course, there is a <b>question of the authorship of the Iliad and the Odyssey</b>. According to one theory, they were created by wandering poets that told myths. You remember that the Iliad describes the 10th year of the siege of Troy (in reality, there were slightly more than 50 days of the siege.) And the Odyssey tells the story of Odysseus, on his way back home to Ithaka after the Trojan War. We see pieces of general myths, which were familiar to all ancient Greeks.
 </p>
-<pre>
 <p>
-           Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, 
 </p>
-</pre>
 
         the entire European literature is divided into the Iliad and the Odyssey.
 
