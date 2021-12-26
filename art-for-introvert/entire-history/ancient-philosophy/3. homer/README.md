@@ -28,10 +28,10 @@ attempt to decipher an old culture and ancient philosophy with a modern conceptu
 task. So, we should not use the word "justice," for example, the way we understand it today when we talk about Greece. In Greece, justice meant something 
 completely different. 
 Therefore, our task will always be to delve into the way of thinking characteristic of a culture. When we study the history of ancient times and those 
-coming next, the history of Europe, thereâs no point in reading it in a contemporary way. It does not make any sense to try to apply our modern 
-understanding of valor to ancient valor since they do not correspond. Our task is to shift from the perspective of our time. Only this way weâll get close 
-to the real meanings. This is why we will look into the language and concepts within the culture. So, the word "arete" means "valor," expression of oneâs 
-maximum potential. Remember, one was supposed to occupy a harmonious place in this world and realize oneâs fullest potential, extreme valor. "Dike" is very 
+coming next, the history of Europe, there's no point in reading it in a contemporary way. It does not make any sense to try to apply our modern 
+understanding of valor to ancient valor since they do not correspond. Our task is to shift from the perspective of our time. Only this way we'll get close 
+to the real meanings. This is why we will look into the language and concepts within the culture. So, the word "arete" means "valor," expression of one's 
+maximum potential. Remember, one was supposed to occupy a harmonious place in this world and realize one's fullest potential, extreme valor. "Dike" is very 
 similar. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably 
 lead to punishment. If you violate the order of the world, be ready to pay for it. Agamemnon kills his daughter, so he should be prepared for the punishment 
 that will come after. Therefore, justice is a way to preserve the proportions of the cosmos. The 
@@ -49,7 +49,7 @@ and gets back to it. The goal of the first philosophers was not in resolving sep
 mechanism of the world, nature, the primordial essence of the world, and the origin of all things. This is why it had to appeal to natural phenomena. Then, 
 as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity, which makes 
 a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question. 
-Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around. Well, letâs talk about philosophers, associated 
+Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around. Well, let's talk about philosophers, associated 
 with it. 
 So, the first one is Thales of Miletus. We hardly know anything about him now. Very little information has been preserved. Generally, we only have the 
 remains of what was known about him. There barely exist any original materials of the first philosophers. They were mostly often examples of a verbal 
