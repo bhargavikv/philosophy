@@ -22,7 +22,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly 
 depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all, it is Ananke, Inevitability. It is a force that 
-drives cosmic motion and reconstitutes order. Another word, arÃªte, means "valor." To be honest, it is impossible to translate philosophy, because it is in 
+drives cosmic motion and reconstitutes order. Another word, ar$\hat{e}$te, means "valor." To be honest, it is impossible to translate philosophy, because it is in 
 close connection with the cultural paradigm, with language. So, the word "valor" is now interpreted completely differently than it was in the past. When we 
 attempt to decipher an old culture and ancient philosophy with a modern conceptual apparatus and within the modern category system, we fail to fulfill the 
 task. So, we should not use the word "justice," for example, the way we understand it today when we talk about Greece. In Greece, justice meant something 
