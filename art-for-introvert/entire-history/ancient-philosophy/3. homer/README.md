@@ -63,7 +63,7 @@ and retribution to each other for their injustice in accordance with the orderin
 phrase. It reflects the essence of ancient Greek culture. "The things that are perish into the things out of which they come to be" means where things come 
 from. The part "Into the things out of which they come to be" expresses the idea of cyclical time in antiquity. In Christianity, it is said: "In the 
 beginning was the Word, and the Word was with God, and the Word was God." In ancient times, time was deemed 
-cyclical. The Histories of Herodotus, for instance, in many ways, describe the history of the past with no linear development of events. So, letâs continue. 
+cyclical. The Histories of Herodotus, for instance, in many ways, describe the history of the past with no linear development of events. So, let's continue. 
 "According to necessity" is about fate and destiny: you are always obliged to go back to the starting point. "For they pay penalty and retribution to each 
 other." This phrase reveals an idea of exchange. "For their injustice according to the order of time" means that the moment you violate a rule, the cosmos 
 brings you back to the starting point. Consequently, it costs you a lot of trouble soon after. This amazing example gives an overview of ancient Greek 
