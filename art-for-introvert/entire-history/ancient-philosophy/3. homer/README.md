@@ -11,6 +11,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
         the entire European literature is divided into the Iliad and the Odyssey.
 
 <p>
+>>  the entire European literature is divided into the Iliad and the Odyssey.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And there is an element of truth in this phrase. He formed the  cultural paradigms that can be found in the medieval journey of a soul to God, in Dante's Divine Comedy, in Goethe's Faust, in Joyce's Ulysses, in Don Quixote: they all narrate about a path. A European is an eternal traveler, an ever-returning prodigal son. It is all encompassed in the tradition of the development of Odysseus's image. And Homer's contribution is paramount here.
 </p>
 Let me tell you a few words about his texts. First of all, they delineate real gods, letting the reader actually grasp what human-like gods were like. Gods were participants of wars. They helped humans and gave them weapons, fought, and reconciled. That means, gods took an active part in the events of the Iliad and the Odyssey. I must say, Homer's texts were written in a language no 
