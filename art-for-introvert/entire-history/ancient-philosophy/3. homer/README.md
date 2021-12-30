@@ -21,7 +21,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
-- Ananke, Inevitability[^1] (necessity[^2]) It is a force that drives cosmic motion and reconstitutes order. 
+- Ananke, Inevitability<sup>[1](#myfootnote1)</sup> (necessity<sup>[2](#myfootnote2)</sup>) It is a force that drives cosmic motion and reconstitutes order. 
 - Arete, means "valor."
 To be honest, it is impossible to translate philosophy, because it is in 
 close connection with the cultural paradigm, with language. So, the word "valor" is now interpreted completely differently than it was in the past. When we 
@@ -71,6 +71,5 @@ brings you back to the starting point. Consequently, it costs you a lot of troub
 culture in just a few words. Let us continue with Heraclitus, the dark Heraclitus. Only a few things about him have come down to us. According to his 
 philosophy, the key element is fire. That fire generates a constant change of the opposites, creating a cosmos in this eternal whirlwind.
   
-  
-[^1]: evitable - avoidable
-[^2]: necessity - anything necessary
+<a name="myfootnote1">1</a>. evitable - avoidable
+<a name="myfootnote2">2</a>. necessity - anything necessary
