@@ -25,8 +25,8 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
 
-  - <b>Ananke</b>, Inevitability<a href="#m1"><sup>[1]</sup></a> (necessity<a href="#m2"><sup>[2]</sup></a>). It is a force that drives cosmic motion and reconstitutes order (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
-  - <b>Arete</b>, means valor.<a href="#m3"><sup>[3]</sup></a> expression of one's maximum potential <br>
+  - <b>Ananke</b>, Inevitability<a href="#m7" id="w7"><sup>[7]</sup></a> (necessity<a href="#m8" id="w8"><sup>[8]</sup></a>). It is a force that drives cosmic motion and reconstitutes order (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
+  - <b>Arete</b>, means valor<a href="#m9" id="w9"><sup>[9]</sup></a>. expression of one's maximum potential <br>
      the valor of a hero consists in the fullest realization of his being as a warrior or the nature of a warrior. <br>
      "Arete" describes such a valor that is connected with the fullest realization of the corresponding nature, the fate of being someone. And if this is true, one could also speak about the arete of a horse for example. <br>
      Remember, one was supposed to occupy a harmonious place in this world and realize one's fullest potential, extreme valor. 
@@ -98,15 +98,12 @@ philosophy, the key element is fire. That fire generates a constant change of th
 - <a id="m4"></a> [delineate](#w4) - describe precisely <br> 
 - <a id="m5"></a> [reconcile](#w5) - restore friendly relations between <br>
 - <a id="m6"></a> [rife](#w6) - of common occurence <br> 
-- <a id="m7"></a> [](#w7) - <br> 
-- <a id="m8"></a> [](#w8) - <br>
-- <a id="m9"></a> [](#w9) - <br> 
+- <a id="m7"></a> [evitable](#w7) - avoidable <br> 
+- <a id="m8"></a> [necessity](#w8) - anything necessary <br>
+- <a id="m9"></a> [valor](#w9) - the qualities of a hero; exceptional courage <br> 
 - <a id="m10"></a> [](#w10) - <br> 
 - <a id="m11"></a> [](#w11) - <br> 
 - <a id="m12"></a> [](#w12) - <br> 
 - <a id="m13"></a> [](#w13) - <br> 
 - <a id="m14"></a> [](#w14) - <br> 
 - <a id="m15"></a> [](#w15) - <br> 
-- <a id="m9"></a> evitable - avoidable <br>
-- <a id="m2"></a> necessity - anything necessary <br>
-- <a id="m3"></a> valor - the qualities of a hero; exceptional courage <br>
