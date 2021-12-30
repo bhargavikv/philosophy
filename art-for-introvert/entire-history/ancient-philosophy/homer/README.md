@@ -75,7 +75,7 @@ number and a rhythm: arithmos and rhythmos.
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around.
 </p>
-
+Well, let's talk about philosophers, associated with it.
 
 
 ### THALES OF MILETUS (7th century BC)
