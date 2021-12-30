@@ -44,8 +44,8 @@ number and a rhythm: arithmos and rhythmos.
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remember, ancient Greek culture took roots from a poetic language - poetry has a rhythm and a certain structure. Thus, this "measure" of the language can be found in poetry. We see that in the way Greek understood justice, it was an order based on a certain measure. The proportionality and beauty of the world can be mathematically measured. Knowledge of mathematics and geometry was highly praised in ancient Greece. According to a legend, there was an inscription above the entrance to Plato's academy: 
 </p>
-<div>
-  <b align="center">
+<div align="center">
+  <b>
     "Let None But Geometers Enter Here,"
   </b>
 </div>
