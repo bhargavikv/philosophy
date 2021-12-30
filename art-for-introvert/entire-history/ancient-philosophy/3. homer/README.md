@@ -26,7 +26,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
 
   - <b>Ananke</b>, Inevitability<a href="#m2"><sup>[1]</sup></a> (necessity<a href="#m2"><sup>[2]</sup></a>). It is a force that drives cosmic motion and reconstitutes order (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
-  - <b>Arete</b>, means valor.<a href="#m3"><sup>[3]</sup></a> expression of one's maximum potential
+  - <b>Arete</b>, means valor.<a href="#m3"><sup>[3]</sup></a> expression of one's maximum potential <br>
      the valor of a hero consists in the fullest realization of his being as a warrior or the nature of a warrior. <br>
      "Arete" describes such a valor that is connected with the fullest realization of the corresponding nature, the fate of being someone. And if this is true, one could also speak about the arete of a horse for example.
 
