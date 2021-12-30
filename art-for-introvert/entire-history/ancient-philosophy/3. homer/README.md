@@ -71,5 +71,5 @@ brings you back to the starting point. Consequently, it costs you a lot of troub
 culture in just a few words. Let us continue with Heraclitus, the dark Heraclitus. Only a few things about him have come down to us. According to his 
 philosophy, the key element is fire. That fire generates a constant change of the opposites, creating a cosmos in this eternal whirlwind.
   
-<a name="myfootnote1">1</a>. evitable - avoidable
-<a name="myfootnote2">2</a>. necessity - anything necessary
+<a id="myfootnote1">1</a>. evitable - avoidable
+<a id="myfootnote2">2</a>. necessity - anything necessary
