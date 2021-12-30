@@ -55,13 +55,7 @@ number and a rhythm: arithmos and rhythmos.
 </p>
 
  - <b>Theoria</b>, or theory, which was already discussed, was contemplation and the most admirable activity.
-   A philosopher does not only see the world in its diversity, but also in its unity. The unity of the world cannot be fully revealed in the everyday experience of interaction, but it can be revealed by contemplation.
- <div align="center">
-  <b>
-    Wisdom consists in knowing everything as one
-  </b>
-</div>
-<br>
+   A philosopher does not only see the world in its diversity, but also in its unity. The unity of the world <b>cannot be fully revealed in the everyday experience of interaction, but it can be revealed by contemplation. Wisdom consists in knowing everything as one </b>
 
 ### NATURAL PHILOSOPHY
 
