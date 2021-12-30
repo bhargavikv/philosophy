@@ -50,10 +50,10 @@ number and a rhythm: arithmos and rhythmos.
   </b>
 </div>
 <br>
-<p>so one was encouraged to get to 
-possess some knowledge about physical measures and laws of world harmony. Then, theoria, or theory, which 
-was already discussed today, was contemplation and the most admirable activity. Now, let's move on to natural philosophy. Natural, or the pre-Socratic 
-philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  so one was encouraged to get to possess some knowledge about physical measures and laws of world harmony.
+</p>
+ - <b>theoria</b>, or theory, which was already discussed, was contemplation and the most admirable activity. Now, let's move on to natural philosophy. Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
 philosophy strived for overall knowledge and explanation. Pre-Socratics sought to find the source of everything. They were not interested in particular 
 phenomena. Let me quote Thales, the first philosopher, although this quote is likely to have been invented. Thales stated that everything comes from water 
 and gets back to it. The goal of the first philosophers was not in resolving separate issues but in providing a thorough explanation of the universal 
