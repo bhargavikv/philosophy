@@ -94,7 +94,12 @@ philosophy, the key element is fire. That fire generates a constant change of th
 - <a id="m1"></a> [](#w1) - <br> 
 - <a id="m1"></a> [siege](#w1) - a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender <br>
 - <a id="m2"></a> [prodigal son](#w2) - a person who has left his family in order to do something that the family disapprove of and has now returned home feeling sorry for what he has done <br>
-- <a id="m3"></a> [encompassed](#w3) - covered <br> 
-- <a id="m3"></a> evitable - avoidable <br>
+- <a id="m3"></a> [encompassed](#w3) - covered <br>
+- <a id="m4"></a> [](#w4) - <br> 
+- <a id="m5"></a> [](#w5) - <br>
+- <a id="m6"></a> [](#w6) - <br> 
+- <a id="m7"></a> [](#w7) - <br> 
+- <a id="m8"></a> [](#w8) - <br> 
+- <a id="m9"></a> evitable - avoidable <br>
 - <a id="m2"></a> necessity - anything necessary <br>
 - <a id="m3"></a> valor - the qualities of a hero; exceptional courage <br>
