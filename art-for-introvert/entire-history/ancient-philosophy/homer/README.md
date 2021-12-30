@@ -59,7 +59,7 @@ number and a rhythm: arithmos and rhythmos.
 
 ### NATURAL PHILOSOPHY
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>The main objective is to find the origin</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main objective is to find the origin
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
 philosophy strived for overall knowledge and explanation. Pre-Socratics sought to find the source of everything. They were not interested in particular 
