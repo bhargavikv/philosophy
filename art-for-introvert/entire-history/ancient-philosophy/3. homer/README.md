@@ -22,7 +22,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
 
-- Ananke, Inevitability<a href="#m2"><sup>[1]</sup></a> (necessity<a href="#m2"><sup>[1]</sup></a>) It is a force that drives cosmic motion and reconstitutes order. 
+- Ananke, Inevitability<a href="#m2"><sup>[1]</sup></a> (necessity<a href="#m2"><sup>[2]</sup></a>) It is a force that drives cosmic motion and reconstitutes order. 
 - Arete, means "valor."
 
 To be honest, it is impossible to translate philosophy, because it is in 
@@ -73,6 +73,7 @@ brings you back to the starting point. Consequently, it costs you a lot of troub
 culture in just a few words. Let us continue with Heraclitus, the dark Heraclitus. Only a few things about him have come down to us. According to his 
 philosophy, the key element is fire. That fire generates a constant change of the opposites, creating a cosmos in this eternal whirlwind.
   
-<a id="myfootnote1">1</a>. evitable - avoidable
-<a id="m2">2</a>. necessity - anything necessary
-<b id="f1">1</b> Footnote content here. [↩](#a1)
+  
+#### Meanings and Notes
+<a id="m1"></a> evitable - avoidable
+<a id="m2"></a> necessity - anything necessary
