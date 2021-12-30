@@ -44,7 +44,11 @@ number and a rhythm: arithmos and rhythmos.
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remember, ancient Greek culture took roots from a poetic language - poetry has a rhythm and a certain structure. Thus, this "measure" of the language can be found in poetry. We see that in the way Greek understood justice, it was an order based on a certain measure. The proportionality and beauty of the world can be mathematically measured. Knowledge of mathematics and geometry was highly praised in ancient Greece. According to a legend, there was an inscription above the entrance to Plato's academy: 
 </p>
-<div style="text-align:center"><b>"Let None But Geometers Enter Here,"</b></div>
+<div style="text-align:center">
+  <b style="text-align:center">
+    "Let None But Geometers Enter Here,"
+  </b>
+</div>
 <p>so one was encouraged to get to 
 possess some knowledge about physical measures and laws of world harmony. Then, theoria, or theory, which 
 was already discussed today, was contemplation and the most admirable activity. Now, let's move on to natural philosophy. Natural, or the pre-Socratic 
