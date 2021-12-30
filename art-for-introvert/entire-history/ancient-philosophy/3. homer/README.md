@@ -25,8 +25,8 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
 
-  - <b>Ananke</b>, Inevitability<a href="#m2"><sup>[1]</sup></a> (necessity<a href="#m2"><sup>[2]</sup></a>). It is a force that drives cosmic motion and reconstitutes order (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
-  - <b>Arete</b>, means valor.<a href="#m3"><sup>[3]</sup></a> expression of one's maximum potential <br>
+  1. <b>Ananke</b>, Inevitability<a href="#m2"><sup>[1]</sup></a> (necessity<a href="#m2"><sup>[2]</sup></a>). It is a force that drives cosmic motion and reconstitutes order (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
+  2. <b>Arete</b>, means valor.<a href="#m3"><sup>[3]</sup></a> expression of one's maximum potential <br>
      the valor of a hero consists in the fullest realization of his being as a warrior or the nature of a warrior. <br>
      "Arete" describes such a valor that is connected with the fullest realization of the corresponding nature, the fate of being someone. And if this is true, one could also speak about the arete of a horse for example. <br>
      Remember, one was supposed to occupy a harmonious place in this world and realize one's fullest potential, extreme valor. 
@@ -37,8 +37,7 @@ understanding of valor to ancient valor since they do not correspond. Our task i
 to the real meanings. This is why we will look into the language and concepts within the culture.
 </p> 
 
-  - <b>Dike</b>, means justice. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably 
-lead to punishment. If you violate the order of the world, be ready to pay for it. Agamemnon kills his daughter, so he should be prepared for the punishment that will come after. Therefore, justice is a way to preserve the proportions of the cosmos.
+  3. <b>Dike</b>, means justice. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably lead to punishment. If you violate the order of the world, be ready to pay for it. Agamemnon kills his daughter, so he should be prepared for the punishment that will come after. Therefore, justice is a way to preserve the proportions of the cosmos.
 
 The concept of "metron" should also be pointed out here. Justice is a measure-based order that has a geometric nature. It comprises order (dike) and also a 
 number and a rhythm: arithmos and rhythmos. Remember, ancient Greek culture took roots from a poetic language â poetry has a rhythm and a certain structure. 
