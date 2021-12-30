@@ -21,6 +21,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
+<sup id="a1">[1](#f1)</sup>
 - Ananke, Inevitability<sup>[1]</sup>(#myfootnote1) (necessity<sup>[2](#myfootnote2)</sup>) It is a force that drives cosmic motion and reconstitutes order. 
 - Arete, means "valor."
 To be honest, it is impossible to translate philosophy, because it is in 
@@ -73,3 +74,4 @@ philosophy, the key element is fire. That fire generates a constant change of th
   
 <a id="myfootnote1">1</a>. evitable - avoidable
 <a id="myfootnote2">2</a>. necessity - anything necessary
+<b id="f1">1</b> Footnote content here. [↩](#a1)
