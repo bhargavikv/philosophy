@@ -67,7 +67,7 @@ number and a rhythm: arithmos and rhythmos.
 
 2. **Behind the visible diversity of the world, hides an inner beauty**
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity, which makes a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question. Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around. Well, let's talk about philosophers, associated with it. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity<a href="#m10" id="w10"><sup>[10]</sup></a>, which makes a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question. Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around. Well, let's talk about philosophers, associated with it. 
 So, the first one is Thales of Miletus. We hardly know anything about him now. Very little information has been preserved. Generally, we only have the 
 remains of what was known about him. There barely exist any original materials of the first philosophers. They were mostly often examples of a verbal 
 tradition, and for this reason, they were not preserved in the written form. Writings were either burnt in libraries or lost. We know about these 
@@ -99,7 +99,7 @@ philosophy, the key element is fire. That fire generates a constant change of th
 - <a id="m7"></a> [evitable](#w7) - avoidable <br> 
 - <a id="m8"></a> [necessity](#w8) - anything necessary <br>
 - <a id="m9"></a> [valor](#w9) - the qualities of a hero; exceptional courage <br> 
-- <a id="m10"></a> [](#w10) - <br> 
+- <a id="m10"></a> [multiplicity](#w10) - a large number or variety <br> 
 - <a id="m11"></a> [](#w11) - <br> 
 - <a id="m12"></a> [](#w12) - <br> 
 - <a id="m13"></a> [](#w13) - <br> 
