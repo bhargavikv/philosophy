@@ -39,7 +39,7 @@ to the real meanings. This is why we will look into the language and concepts wi
 
   - <b>Dike</b>, means justice. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably lead to punishment. If you violate the order of the world, be ready to pay for it. Agamemnon kills his daughter, so he should be prepared for the punishment that will come after. Therefore, justice is a way to preserve the proportions of the cosmos.
 
-The concept of "metron" should also be pointed out here. Justice is a measure-based order that has a geometric nature. It comprises order (dike) and also a 
+  - <b>Metron</b> means measure. Justice is a measure-based order that has a geometric nature. It comprises order (dike) and also a 
 number and a rhythm: arithmos and rhythmos. Remember, ancient Greek culture took roots from a poetic language â poetry has a rhythm and a certain structure. 
 Thus, this "measure" of the language can be found in poetry. We see that in the way Greek understood justice, it was an order based on a certain measure. 
 The proportionality and beauty of the world can be mathematically measured. Knowledge of mathematics and geometry was highly praised in ancient Greece. 
