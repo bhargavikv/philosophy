@@ -95,8 +95,7 @@ Then, let us touch upon Anaximander. According to him: <b>"The things that are p
 </p>
   
   
-#### Meanings and Notes
-- <a id="m1"></a> [](#w1) - <br> 
+#### Meanings and Notes 
 - <a id="m1"></a> [siege](#w1) - a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender <br>
 - <a id="m2"></a> [prodigal son](#w2) - a person who has left his family in order to do something that the family disapprove of and has now returned home feeling sorry for what he has done <br>
 - <a id="m3"></a> [encompassed](#w3) - covered <br>
