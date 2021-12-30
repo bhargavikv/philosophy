@@ -14,7 +14,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First of all, they delineate<a href="#m4" id="w4"><sup>[4]</sup></a> real gods, letting the reader actually grasp what human-like gods were like. Gods were participants of wars. They helped humans and gave them weapons, fought, and reconciled<a href="#m5" id="w5"><sup>[5]</sup></a>. That means, gods took an active part in the events of the Iliad and the Odyssey. I must say, Homer's texts were written in a language no one spoke. To be more accurate, they combine almost all dialects of the ancient world. It wasn't the language of a particular island or a polis. Essentially, Homer created a universal compilation. This is why there are questions about whether it was one person or a group of poets, whose art goes by his name. 
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mind that Homer's works are not rife with any psychologism. In Homer's interpretation, a <b>human is a vessel which collects the gestures, emotions, and passion conveyed by gods</b>. The Iliad starts with Achilles' anger. But anger is not something Achilles is born with. It is Ares' anger that comes to him and is manifested through him. I continue the idea that the ancient Greek world is the world of the demonstrated, of the external. This is why the motivation of the characters and all their feelings, passion, and emotions can be clearly seen. They are finely demonstrated. It is not an inner world, it always is the world of the external, which is characteristic of Homer's works.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mind that Homer's works are not rife<a href="#m6" id="w6"><sup>[6]</sup></a> with any psychologism. In Homer's interpretation, a <b>human is a vessel which collects the gestures, emotions, and passion conveyed by gods</b>. The Iliad starts with Achilles' anger. But anger is not something Achilles is born with. It is Ares' anger that comes to him and is manifested through him. I continue the idea that the ancient Greek world is the world of the demonstrated, of the external. This is why the motivation of the characters and all their feelings, passion, and emotions can be clearly seen. They are finely demonstrated. It is not an inner world, it always is the world of the external, which is characteristic of Homer's works.
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of course, we should understand that every new generation forms a new interpretation of classic texts. By the way, it is quite common in Europe. But we should keep in mind that, by translating Homer even today, we enrich our culture and language. We do not just retell Homer. This is why the diversity of interpretations that appears in culture is so highly valued. 
@@ -97,9 +97,16 @@ philosophy, the key element is fire. That fire generates a constant change of th
 - <a id="m3"></a> [encompassed](#w3) - covered <br>
 - <a id="m4"></a> [delineate](#w4) - describe precisely <br> 
 - <a id="m5"></a> [reconcile](#w5) - restore friendly relations between <br>
-- <a id="m6"></a> [](#w6) - <br> 
+- <a id="m6"></a> [rife](#w6) - of common occurence <br> 
 - <a id="m7"></a> [](#w7) - <br> 
-- <a id="m8"></a> [](#w8) - <br> 
+- <a id="m8"></a> [](#w8) - <br>
+- <a id="m9"></a> [](#w9) - <br> 
+- <a id="m10"></a> [](#w10) - <br> 
+- <a id="m11"></a> [](#w11) - <br> 
+- <a id="m12"></a> [](#w12) - <br> 
+- <a id="m13"></a> [](#w13) - <br> 
+- <a id="m14"></a> [](#w14) - <br> 
+- <a id="m15"></a> [](#w15) - <br> 
 - <a id="m9"></a> evitable - avoidable <br>
 - <a id="m2"></a> necessity - anything necessary <br>
 - <a id="m3"></a> valor - the qualities of a hero; exceptional courage <br>
