@@ -62,8 +62,9 @@ number and a rhythm: arithmos and rhythmos.
   </b>
 </div>
 <br>
+### NATURAL PHILOSOPHY
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, let's move on to natural philosophy. Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
 philosophy strived for overall knowledge and explanation. Pre-Socratics sought to find the source of everything. They were not interested in particular 
 phenomena. Let me quote Thales, the first philosopher, although this quote is likely to have been invented. Thales stated that everything comes from water 
 and gets back to it. The goal of the first philosophers was not in resolving separate issues but in providing a thorough explanation of the universal 
