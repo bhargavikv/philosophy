@@ -59,17 +59,14 @@ number and a rhythm: arithmos and rhythmos.
 
 ### NATURAL PHILOSOPHY
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main objective is to find the origin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main objective is to find the origin. It's principles are
+1. **The explanation should come from within (be natural)**
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
-philosophy strived for overall knowledge and explanation. Pre-Socratics sought to find the source of everything. They were not interested in particular 
-phenomena. Let me quote Thales, the first philosopher, although this quote is likely to have been invented. Thales stated that everything comes from water 
-and gets back to it. The goal of the first philosophers was not in resolving separate issues but in providing a thorough explanation of the universal 
-mechanism of the world, nature, the primordial essence of the world, and the origin of all things. This is why it had to appeal to natural phenomena. Then, 
-as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity, which makes 
-a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question. 
-Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around. Well, let's talk about philosophers, associated 
-with it. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic philosophy strived for overall knowledge and explanation. Pre-Socratics sought to find the source of everything. They were not interested in particular phenomena. Let me quote <b>Thales, the first philosopher</b>, although this quote is likely to have been invented. Thales stated that everything comes from water and gets back to it. The goal of the first philosophers was not in resolving separate issues but in providing a thorough explanation of the universal mechanism of the world, nature, the primordial essence of the world, and the origin of all things. This is why it had to appeal to natural phenomena.
+</p>
+2. **Behind the visible diversity of the world, hides an inner beauty**
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity, which makes a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question. Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around. Well, let's talk about philosophers, associated with it. 
 So, the first one is Thales of Miletus. We hardly know anything about him now. Very little information has been preserved. Generally, we only have the 
 remains of what was known about him. There barely exist any original materials of the first philosophers. They were mostly often examples of a verbal 
 tradition, and for this reason, they were not preserved in the written form. Writings were either burnt in libraries or lost. We know about these 
