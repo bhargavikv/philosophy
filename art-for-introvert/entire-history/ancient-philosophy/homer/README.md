@@ -91,7 +91,7 @@ philosophy, the key element is fire. That fire generates a constant change of th
   
   
 #### Meanings and Notes
-<a id="m1"></a> evitable - avoidable [^](#w1)<br>
+<a id="m1"></a> siege - a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender [^](#w1)<br>
 <a id="m1"></a> evitable - avoidable <br>
 <a id="m2"></a> necessity - anything necessary <br>
 <a id="m3"></a> valor - the qualities of a hero; exceptional courage <br>
