@@ -20,9 +20,10 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of course, we should understand that every new generation forms a new interpretation of classic texts. By the way, it is quite common in Europe. But we should keep in mind that, by translating Homer even today, we enrich our culture and language. We do not just retell Homer. This is why the diversity of interpretations that appears in culture is so highly valued. 
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly 
-depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all, it is Ananke, Inevitability. It is a force that 
-drives cosmic motion and reconstitutes order. Another word, arete, means "valor." To be honest, it is impossible to translate philosophy, because it is in 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
+- Ananke, Inevitability[^1] (necessity[^2]) It is a force that drives cosmic motion and reconstitutes order. 
+- Arete, means "valor."
+To be honest, it is impossible to translate philosophy, because it is in 
 close connection with the cultural paradigm, with language. So, the word "valor" is now interpreted completely differently than it was in the past. When we 
 attempt to decipher an old culture and ancient philosophy with a modern conceptual apparatus and within the modern category system, we fail to fulfill the 
 task. So, we should not use the word "justice," for example, the way we understand it today when we talk about Greece. In Greece, justice meant something 
@@ -69,3 +70,7 @@ other." This phrase reveals an idea of exchange. "For their injustice according 
 brings you back to the starting point. Consequently, it costs you a lot of trouble soon after. This amazing example gives an overview of ancient Greek 
 culture in just a few words. Let us continue with Heraclitus, the dark Heraclitus. Only a few things about him have come down to us. According to his 
 philosophy, the key element is fire. That fire generates a constant change of the opposites, creating a cosmos in this eternal whirlwind.
+  
+  
+[^1] evitable - avoidable
+[^2] necessity - anything necessary
