@@ -36,8 +36,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 understanding of valor to ancient valor since they do not correspond. Our task is to shift from the perspective of our time. Only this way we'll get close 
 to the real meanings. This is why we will look into the language and concepts within the culture.
 </p> 
-  "Dike" is very 
-similar. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably 
+  - <b>Dike</b>, means justice. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably 
 lead to punishment. If you violate the order of the world, be ready to pay for it. Agamemnon kills his daughter, so he should be prepared for the punishment 
 that will come after. Therefore, justice is a way to preserve the proportions of the cosmos. The 
 concept of "metron" should also be pointed out here. Justice is a measure-based order that has a geometric nature. It comprises order (dike) and also a 
