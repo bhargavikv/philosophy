@@ -40,10 +40,9 @@ to the real meanings. This is why we will look into the language and concepts wi
   - <b>Dike</b>, means justice. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably lead to punishment. If you violate the order of the world, be ready to pay for it. Agamemnon kills his daughter, so he should be prepared for the punishment that will come after. Therefore, justice is a way to preserve the proportions of the cosmos.
 
   - <b>Metron</b> means measure. Justice is a measure-based order that has a geometric nature. It comprises order (dike) and also a 
-number and a rhythm: arithmos and rhythmos. Remember, ancient Greek culture took roots from a poetic language â poetry has a rhythm and a certain structure. 
-Thus, this "measure" of the language can be found in poetry. We see that in the way Greek understood justice, it was an order based on a certain measure. 
-The proportionality and beauty of the world can be mathematically measured. Knowledge of mathematics and geometry was highly praised in ancient Greece. 
-According to a legend, there was an inscription above the entrance to Plato's academy: "Let None But Geometers Enter Here," so one was encouraged to get to 
+number and a rhythm: arithmos and rhythmos. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remember, ancient Greek culture took roots from a poetic language - poetry has a rhythm and a certain structure. Thus, this "measure" of the language can be found in poetry. We see that in the way Greek understood justice, it was an order based on a certain measure. The proportionality and beauty of the world can be mathematically measured. Knowledge of mathematics and geometry was highly praised in ancient Greece. According to a legend, there was an inscription above the entrance to Plato's academy: <b>"Let None But Geometers Enter Here,"</b> so one was encouraged to get to 
 possess some knowledge about physical measures and laws of world harmony. Then, theoria, or theory, which 
 was already discussed today, was contemplation and the most admirable activity. Now, let's move on to natural philosophy. Natural, or the pre-Socratic 
 philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
