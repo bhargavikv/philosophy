@@ -5,7 +5,7 @@ Let us say a few words about Homer.
 Most likely, he lived around the 8th century BC and told the story about the Trojan War, which had taken place 200-300 years before. However, we saw a documented version of the Iliad and the Odyssey in the 6th century BC only, two centuries after the approximate date of Homer's death. And of course, there is a <b>question of the authorship of the Iliad and the Odyssey</b>. According to one theory, they were created by wandering poets that told myths. You remember that the Iliad describes the 10th year of the siege<a href="#m1" id="w1"><sup>[1]</sup></a> of Troy (in reality, there were slightly more than 50 days of the siege.) And the Odyssey tells the story of Odysseus, on his way back home to Ithaka after the Trojan War. We see pieces of general myths, which were familiar to all ancient Greeks.
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, <b> the entire European literature is divided into the Iliad and the Odyssey. </b>And there is an element of truth in this phrase. He formed the  cultural paradigms that can be found in the medieval journey of a soul to God, in Dante's Divine Comedy, in Goethe's Faust, in Joyce's Ulysses, in Don Quixote: they all narrate about a path. A European is an eternal traveler, an ever-returning prodigal son<a href="#m2" id="w2"><sup>[2]</sup></a>. It is all encompassed in the tradition of the development of Odysseus's image. And Homer's contribution is paramount here.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, <b> the entire European literature is divided into the Iliad and the Odyssey. </b>And there is an element of truth in this phrase. He formed the  cultural paradigms that can be found in the medieval journey of a soul to God, in Dante's Divine Comedy, in Goethe's Faust, in Joyce's Ulysses, in Don Quixote: they all narrate about a path. A European is an eternal traveler, an ever-returning prodigal son<a href="#m2" id="w2"><sup>[2]</sup></a>. It is all encompassed<a href="#m3" id="w3"><sup>[3]</sup></a> in the tradition of the development of Odysseus's image. And Homer's contribution is paramount here.
 </p>
 
 ### ABOUT HIS TEXTS
@@ -93,7 +93,8 @@ philosophy, the key element is fire. That fire generates a constant change of th
 #### Meanings and Notes
 - <a id="m1"></a> [](#w1) - <br> 
 - <a id="m1"></a> [siege](#w1) - a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender <br>
-- <a id="m2"></a> [prodigal son](#w2) - a person who has left his family in order to do something that the family disapprove of and has now returned home feeling sorry for what he has done <br> 
-- <a id="m1"></a> evitable - avoidable <br>
+- <a id="m2"></a> [prodigal son](#w2) - a person who has left his family in order to do something that the family disapprove of and has now returned home feeling sorry for what he has done <br>
+- <a id="m3"></a> [encompassed](#w3) - covered <br> 
+- <a id="m3"></a> evitable - avoidable <br>
 - <a id="m2"></a> necessity - anything necessary <br>
 - <a id="m3"></a> valor - the qualities of a hero; exceptional courage <br>
