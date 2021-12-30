@@ -23,18 +23,14 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
 
   - <b>Ananke</b>, Inevitability<a href="#m2"><sup>[1]</sup></a> (necessity<a href="#m2"><sup>[2]</sup></a>) It is a force that drives cosmic motion and reconstitutes order. (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
-  - <b>Arete</b>, means valor<a href="#m3"><sup>[3]</sup></a>.
+  - <b>Arete</b>, means valor<a href="#m3"><sup>[3]</sup></a> expression of one's maximum potential
 
-To be honest, it is impossible to translate philosophy, because it is in 
-close connection with the cultural paradigm, with language. So, the word "valor" is now interpreted completely differently than it was in the past. When we 
-attempt to decipher an old culture and ancient philosophy with a modern conceptual apparatus and within the modern category system, we fail to fulfill the 
-task. So, we should not use the word "justice," for example, the way we understand it today when we talk about Greece. In Greece, justice meant something 
-completely different. 
-Therefore, our task will always be to delve into the way of thinking characteristic of a culture. When we study the history of ancient times and those 
-coming next, the history of Europe, there's no point in reading it in a contemporary way. It does not make any sense to try to apply our modern 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To be honest, it is impossible to translate philosophy, because it is in close connection with the cultural paradigm, with language. So, the word "valor" is now interpreted completely differently than it was in the past. When we attempt to decipher an old culture and ancient philosophy with a modern conceptual apparatus and within the modern category system, we fail to fulfill the task. So, we should not use the word "justice," for example, the way we understand it today when we talk about Greece. In Greece, justice meant something completely different. Therefore, our task will always be to delve into the way of thinking characteristic of a culture. When we study the history of ancient times and those coming next, the history of Europe, there's no point in reading it in a contemporary way. It does not make any sense to try to apply our modern 
 understanding of valor to ancient valor since they do not correspond. Our task is to shift from the perspective of our time. Only this way we'll get close 
-to the real meanings. This is why we will look into the language and concepts within the culture. So, the word "arete" means "valor," expression of one's 
-maximum potential. Remember, one was supposed to occupy a harmonious place in this world and realize one's fullest potential, extreme valor. "Dike" is very 
+to the real meanings. This is why we will look into the language and concepts within the culture.
+</p> 
+  Remember, one was supposed to occupy a harmonious place in this world and realize one's fullest potential, extreme valor. "Dike" is very 
 similar. It is the order of things that has nothing to do with morality. The order of things was the basis of that cosmos, and its violation inevitably 
 lead to punishment. If you violate the order of the world, be ready to pay for it. Agamemnon kills his daughter, so he should be prepared for the punishment 
 that will come after. Therefore, justice is a way to preserve the proportions of the cosmos. The 
