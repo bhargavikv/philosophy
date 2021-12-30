@@ -72,5 +72,5 @@ culture in just a few words. Let us continue with Heraclitus, the dark Heraclitu
 philosophy, the key element is fire. That fire generates a constant change of the opposites, creating a cosmos in this eternal whirlwind.
   
   
-[^1] evitable - avoidable
-[^2] necessity - anything necessary
+[^1]: evitable - avoidable
+[^2]: necessity - anything necessary
