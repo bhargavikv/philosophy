@@ -11,7 +11,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 ### ABOUT HIS TEXTS
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First of all, they delineate real gods, letting the reader actually grasp what human-like gods were like. Gods were participants of wars. They helped humans and gave them weapons, fought, and reconciled. That means, gods took an active part in the events of the Iliad and the Odyssey. I must say, Homer's texts were written in a language no one spoke. To be more accurate, they combine almost all dialects of the ancient world. It wasn't the language of a particular island or a polis. Essentially, Homer created a universal compilation. This is why there are questions about whether it was one person or a group of poets, whose art goes by his name. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First of all, they delineate<a href="#m4" id="w4"><sup>[4]</sup></a> real gods, letting the reader actually grasp what human-like gods were like. Gods were participants of wars. They helped humans and gave them weapons, fought, and reconciled. That means, gods took an active part in the events of the Iliad and the Odyssey. I must say, Homer's texts were written in a language no one spoke. To be more accurate, they combine almost all dialects of the ancient world. It wasn't the language of a particular island or a polis. Essentially, Homer created a universal compilation. This is why there are questions about whether it was one person or a group of poets, whose art goes by his name. 
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mind that Homer's works are not rife with any psychologism. In Homer's interpretation, a <b>human is a vessel which collects the gestures, emotions, and passion conveyed by gods</b>. The Iliad starts with Achilles' anger. But anger is not something Achilles is born with. It is Ares' anger that comes to him and is manifested through him. I continue the idea that the ancient Greek world is the world of the demonstrated, of the external. This is why the motivation of the characters and all their feelings, passion, and emotions can be clearly seen. They are finely demonstrated. It is not an inner world, it always is the world of the external, which is characteristic of Homer's works.
@@ -95,7 +95,7 @@ philosophy, the key element is fire. That fire generates a constant change of th
 - <a id="m1"></a> [siege](#w1) - a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender <br>
 - <a id="m2"></a> [prodigal son](#w2) - a person who has left his family in order to do something that the family disapprove of and has now returned home feeling sorry for what he has done <br>
 - <a id="m3"></a> [encompassed](#w3) - covered <br>
-- <a id="m4"></a> [](#w4) - <br> 
+- <a id="m4"></a> [delineate](#w4) - describe precisely <br> 
 - <a id="m5"></a> [](#w5) - <br>
 - <a id="m6"></a> [](#w6) - <br> 
 - <a id="m7"></a> [](#w7) - <br> 
