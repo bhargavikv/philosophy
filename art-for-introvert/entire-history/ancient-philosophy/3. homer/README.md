@@ -75,5 +75,5 @@ philosophy, the key element is fire. That fire generates a constant change of th
   
   
 #### Meanings and Notes
-<a id="m1"></a> evitable - avoidable
-<a id="m2"></a> necessity - anything necessary
+<a id="m1"></a> evitable - avoidable <br>
+<a id="m2"></a> necessity - anything necessary <br>
