@@ -70,26 +70,15 @@ number and a rhythm: arithmos and rhythmos.
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity<a href="#m10" id="w10"><sup>[10]</sup></a>, which makes a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question.
 </p>
+
 4. **Everything is nature**
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around. Well, let's talk about philosophers, associated with it. 
-So, the first one is Thales of Miletus. We hardly know anything about him now. Very little information has been preserved. Generally, we only have the 
-remains of what was known about him. There barely exist any original materials of the first philosophers. They were mostly often examples of a verbal 
-tradition, and for this reason, they were not preserved in the written form. Writings were either burnt in libraries or lost. We know about these 
-philosophers from the narratives by other philosophers, and in this sense, we owe much to Aristotle, the first historian of philosophy. He never wrote the 
-history of philosophy. But every time he started to analyze, say, happiness or some other concept, 
-he suggested the way this phenomenon had been deemed by his predecessors. Through these retellings, we can discover the ideas of the first philosophers. 
-For example, Thales. Aristotle calls him the first philosopher. Thales believed that everything was water, everything came from water. Then, let us touch 
-upon Anaximander. According to him: "The things that are perish into the things out of which they come to be, according to necessity, for they pay penalty 
-and retribution to each other for their injustice in accordance with the ordering of time." And I would like you to stop for a while and focus on that 
-phrase. It reflects the essence of ancient Greek culture. "The things that are perish into the things out of which they come to be" means where things come 
-from. The part "Into the things out of which they come to be" expresses the idea of cyclical time in antiquity. In Christianity, it is said: "In the 
-beginning was the Word, and the Word was with God, and the Word was God." In ancient times, time was deemed 
-cyclical. The Histories of Herodotus, for instance, in many ways, describe the history of the past with no linear development of events. So, let's continue. 
-"According to necessity" is about fate and destiny: you are always obliged to go back to the starting point. "For they pay penalty and retribution to each 
-other." This phrase reveals an idea of exchange. "For their injustice according to the order of time" means that the moment you violate a rule, the cosmos 
-brings you back to the starting point. Consequently, it costs you a lot of trouble soon after. This amazing example gives an overview of ancient Greek 
-culture in just a few words. Let us continue with Heraclitus, the dark Heraclitus. Only a few things about him have come down to us. According to his 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around.
+</p>
+<p>
+Well, let's talk about philosophers, associated with it. So, the first one is Thales of Miletus. We hardly know anything about him now. Very little information has been preserved. Generally, we only have the remains of what was known about him. There barely exist any original materials of the first philosophers. They were mostly often examples of a verbal tradition, and for this reason, they were not preserved in the written form. Writings were either burnt in libraries or lost. We know about these 
+philosophers from the narratives by other philosophers, and in this sense, we owe much to Aristotle, the first historian of philosophy. He never wrote the history of philosophy. But every time he started to analyze, say, happiness or some other concept, he suggested the way this phenomenon had been deemed by his predecessors. Through these retellings, we can discover the ideas of the first philosophers. For example, Thales. Aristotle calls him the first philosopher. Thales believed that everything was water, everything came from water. Then, let us touch upon Anaximander. According to him: "The things that are perish into the things out of which they come to be, according to necessity, for they pay penalty and retribution to each other for their injustice in accordance with the ordering of time." And I would like you to stop for a while and focus on that phrase. It reflects the essence of ancient Greek culture. "The things that are perish into the things out of which they come to be" means where things come 
+from. The part "Into the things out of which they come to be" expresses the idea of cyclical time in antiquity. In Christianity, it is said: "In the beginning was the Word, and the Word was with God, and the Word was God." In ancient times, time was deemed cyclical. The Histories of Herodotus, for instance, in many ways, describe the history of the past with no linear development of events. So, let's continue. "According to necessity" is about fate and destiny: you are always obliged to go back to the starting point. "For they pay penalty and retribution to each other." This phrase reveals an idea of exchange. "For their injustice according to the order of time" means that the moment you violate a rule, the cosmos brings you back to the starting point. Consequently, it costs you a lot of trouble soon after. This amazing example gives an overview of ancient Greek culture in just a few words. Let us continue with Heraclitus, the dark Heraclitus. Only a few things about him have come down to us. According to his 
 philosophy, the key element is fire. That fire generates a constant change of the opposites, creating a cosmos in this eternal whirlwind.
   
   
