@@ -20,7 +20,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of course, we should understand that every new generation forms a new interpretation of classic texts. By the way, it is quite common in Europe. But we should keep in mind that, by translating Homer even today, we enrich our culture and language. We do not just retell Homer. This is why the diversity of interpretations that appears in culture is so highly valued. 
 </p>
 
-### Some philosophical terms
+### SOME PHILOSOPHICAL TERMS
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
