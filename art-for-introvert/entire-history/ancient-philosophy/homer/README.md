@@ -44,7 +44,7 @@ number and a rhythm: arithmos and rhythmos.
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remember, ancient Greek culture took roots from a poetic language - poetry has a rhythm and a certain structure. Thus, this "measure" of the language can be found in poetry. We see that in the way Greek understood justice, it was an order based on a certain measure. The proportionality and beauty of the world can be mathematically measured. Knowledge of mathematics and geometry was highly praised in ancient Greece. According to a legend, there was an inscription above the entrance to Plato's academy: 
 </p>
-<div align="center">
+<div>
   <b align="center">
     "Let None But Geometers Enter Here,"
   </b>
@@ -54,7 +54,16 @@ number and a rhythm: arithmos and rhythmos.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  so one was encouraged to get to possess some knowledge about physical measures and laws of world harmony.
 </p>
 
- - <b>Theoria</b>, or theory, which was already discussed, was contemplation and the most admirable activity. Now, let's move on to natural philosophy. Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
+ - <b>Theoria</b>, or theory, which was already discussed, was contemplation and the most admirable activity.
+   A philosopher does not only see the world in its diversity, but also in its unity. The unity of the world cannot be fully revealed in the everyday experience of interaction, but it can be revealed by contemplation.
+ <div align="center">
+  <b>
+    Wisdom consists in knowing everything as one
+  </b>
+</div>
+<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, let's move on to natural philosophy. Natural, or the pre-Socratic philosophy, was the first stage of the development of philosophy. Its main objective was to disclose the world's foundations. First of all, Pre-Socratic 
 philosophy strived for overall knowledge and explanation. Pre-Socratics sought to find the source of everything. They were not interested in particular 
 phenomena. Let me quote Thales, the first philosopher, although this quote is likely to have been invented. Thales stated that everything comes from water 
 and gets back to it. The goal of the first philosophers was not in resolving separate issues but in providing a thorough explanation of the universal 
