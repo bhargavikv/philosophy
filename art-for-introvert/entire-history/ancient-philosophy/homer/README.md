@@ -76,6 +76,8 @@ number and a rhythm: arithmos and rhythmos.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just like the name of "natural philosophy" implies, its main goal was to cognize the world of nature around.
 </p>
 
+
+
 ### THALES OF MILETUS (7th century BC)
 <p>
 Well, let's talk about philosophers, associated with it. So, the first one is Thales of Miletus. We hardly know anything about him now. Very little information has been preserved. Generally, we only have the remains of what was known about him. There barely exist any original materials of the first philosophers. They were mostly often examples of a verbal tradition, and for this reason, they were not preserved in the written form. Writings were either burnt in libraries or lost. We know about these 
