@@ -22,7 +22,7 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
 <sup id="a1">[1](#f1)</sup>
-- Ananke, Inevitability<sup>[1]</sup>(#myfootnote1) (necessity<sup>[2](#myfootnote2)</sup>) It is a force that drives cosmic motion and reconstitutes order. 
+  - Ananke, Inevitability<a href="#myfootnote1"><sup>[1]</sup></a> (necessity) It is a force that drives cosmic motion and reconstitutes order. 
 - Arete, means "valor."
 To be honest, it is impossible to translate philosophy, because it is in 
 close connection with the cultural paradigm, with language. So, the word "valor" is now interpreted completely differently than it was in the past. When we 
