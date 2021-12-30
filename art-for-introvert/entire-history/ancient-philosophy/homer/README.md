@@ -89,7 +89,7 @@ Well, let's talk about philosophers, associated with it.
 Then, let us touch upon Anaximander. According to him: <b>"The things that are perish into the things out of which they come to be, according to necessity, for they pay penalty and retribution to each other for their injustice in accordance with the ordering of time"</b>. It reflects the essence of ancient Greek culture. "The things that are perish into the things out of which they come to be" means where things come from. The part "Into the things out of which they come to be" expresses the idea of cyclical time in antiquity. In Christianity, it is said: "In the beginning was the Word, and the Word was with God, and the Word was God." In ancient times, time was deemed cyclical. The Histories of Herodotus, for instance, in many ways, describe the history of the past with no linear development of events. So, let's continue. "According to necessity" is about fate and destiny: you are always obliged to go back to the starting point. "For they pay penalty and retribution to each other." This phrase reveals an idea of exchange. "For their injustice according to the order of time" means that the moment you violate a rule, the cosmos brings you back to the starting point. Consequently, it costs you a lot of trouble soon after. This amazing example gives an overview of ancient Greek culture in just a few words. 
 </p>
 
-#### 3. (Heraclitus)
+#### 3. HERACLITUS
 <p>
   Heraclitus, the dark Heraclitus. Only a few things about him have come down to us. According to his philosophy, the key element is fire. That fire generates a constant change of the opposites, creating a cosmos in this eternal whirlwind.
 </p>
