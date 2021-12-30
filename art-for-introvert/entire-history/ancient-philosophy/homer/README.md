@@ -62,6 +62,7 @@ number and a rhythm: arithmos and rhythmos.
   </b>
 </div>
 <br>
+
 ### NATURAL PHILOSOPHY
 
 <p>
