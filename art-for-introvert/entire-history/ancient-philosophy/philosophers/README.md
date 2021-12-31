@@ -7,7 +7,7 @@
 
 ### EMPEDOCLES (5th century BC)
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His worldview is also of immense interest to us. He claimed that there are two modes of relations: love and hate, eros and thanatos. Thanatos, or destructive force, is primordial. Eros, namely love, is the force that breathes life into the world created from four elements (earth, water, fire, and air). The cosmos, said Empedocles, is brought into existence by love. Love was seen as a uniting power and productive power, the power of unity. And we see this unity in Empedocles' ideas. Love, according to Empedocles, is not a feeling of a particular person towards another. It's a primordial sensuality of the world. Love is the passion of the universe, the passion of nature.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His worldview is also of immense interest to us. He claimed that there are two modes of relations: love and hate, eros and thanatos. Thanatos, or destructive force, is primordial. <b>Eros, namely love, is the force that breathes life into the world created from four elements (earth, water, fire, and air)</b>. The cosmos, said Empedocles, is brought into existence by love. Love was seen as a uniting power and productive power, the power of unity. And we see this unity in Empedocles' ideas. Love, according to Empedocles, is not a feeling of a particular person towards another. It's a primordial sensuality of the world. Love is the passion of the universe, the passion of nature.
 
   - Love created the world.
   - Love is not a private thing, since it lies in the structure of the universe itself.
