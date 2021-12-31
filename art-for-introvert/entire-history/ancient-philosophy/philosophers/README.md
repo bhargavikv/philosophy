@@ -66,9 +66,9 @@
   According to Parmenides, the world was not created twice. The world was created as it is. Brodsky elegantly complements his poem with Parmenides' quotes.
 </p>
 
-## ACHILLES AND THE TORTOISE
+## ZENO'S PARADOXES (aporias)
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There was a student of Parmenides, Zeno. He invented several paradoxes which are referred as aporias. His most famous paradox is about Achilles and the tortoise.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There was a student of Parmenides, Zeno. He invented several paradoxes. His most famous paradox is about Achilles and the tortoise.
 </p>
 <div align="center">
   <img src="achilles-tortoise.png" alt="ACHILLES AND THE TORTOISE" width="700" height="400">
