@@ -81,7 +81,7 @@
   - <b>Dichotomy Paradox</b> - the paradox of cutting in two <br>
   To overcome a path, one has to pass half of his path, and then the half of the remaining path, and so on.<br>
 <div align="center">
-  <img src="dichotomy.png" alt="dichotomy paradox image" width="400" height="300">
+  <img src="dichotomy.png" alt="dichotomy paradox image" width="400" height="200">
 </div>
 <br>
   
