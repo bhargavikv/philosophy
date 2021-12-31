@@ -71,7 +71,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There was a student of Parmenides, Zeno. He invented several paradoxes. His most famous paradox is about Achilles and the tortoise.
 </p>
 <div align="center">
-  <img src="achilles-tortoise.png" alt="ACHILLES AND THE TORTOISE" width="700" height="400">
+  <img src="achilles-tortoise.png" alt="ACHILLES AND THE TORTOISE" width="400" height="300">
 </div>
 <br>
 
