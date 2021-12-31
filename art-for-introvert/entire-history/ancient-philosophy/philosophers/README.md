@@ -45,7 +45,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I would like to offer you an illustrative poem by Joseph Brodsky to show you how these ancient thoughts were born and how they continue to exist in people's minds and art. Let me recite it: 
 </p>
  
-  >"I loved you. Love still (it is possible 
+  >"I loved you. Love still (it is possible <br>
   that just pain) drills my brains. The whole thing is shattered into the devil's smithereens. I tried shooting myself, but it's so complicated with the weapons. And furthermore, the temples: which one to whack? What spoiled it was not the trembling, but pensiveness. Hell, what a mess! I loved you so strongly, so hopelessly, as God grant to you by others â but He won't! He, being of many capabilities, will not create - according to Parmenides - twice."
   
 <p>
