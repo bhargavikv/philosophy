@@ -85,7 +85,7 @@
 </div>
 <br>
   
-   - <b>Flying Arrow</b> It goes that the arrow is in a state of rest at any given moment. If so, how can it fly? <br>
+   - <b>Flying Arrow Paradox</b> It goes that the arrow is in a state of rest at any given moment. If so, how can it fly? <br>
    A flying arrow is motionless, because at any given point in time, it is in the same position, it rests. If it rests at any given moment, it rests at all times. Therefore, the arrow never moves. <br>
  
 <p>
