@@ -46,7 +46,16 @@
 </p>
  
   >"I loved you. Love still (it is possible <br>
-  that just pain) drills my brains. The whole thing is shattered into the devil's smithereens. I tried shooting myself, but it's so complicated with the weapons. And furthermore, the temples: which one to whack? What spoiled it was not the trembling, but pensiveness. Hell, what a mess! I loved you so strongly, so hopelessly, as God grant to you by others â but He won't! He, being of many capabilities, will not create - according to Parmenides - twice."
+  that just pain) drills my brains.<br>
+  The whole thing is shattered into the devil's smithereens.<br>
+  I tried shooting myself, but it's so complicated<br>
+  with the weapons. And furthermore, the temples:<br>
+  which one to whack? What spoiled it was not the<br>
+  trembling, but<br>
+  pensiveness. Hell, what a mess! I loved you so strongly, so hopelessly,<br>
+  as God grant to you by others - but He won't!<br>
+  He, being of many capabilities,<br>
+  will not create - according to Parmenides - twice."<br>
   
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
