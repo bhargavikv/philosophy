@@ -127,7 +127,7 @@
    </i></b>
 </div>
 <div align="center">
-  <b></i>
+  <b><i>
    "Know yourself"
   </i></b>
 </div>
