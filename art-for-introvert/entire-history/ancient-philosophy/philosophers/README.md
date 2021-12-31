@@ -25,14 +25,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He is also fundamentally important. This philosopher had a huge impact on culture, on Heidegger, who presented him as the creator of the paradigm of European thought. Parmenides is the author of a significant idea, which I would like to start with: 
 </p>
 <div align="center">
-  <b>
+  <b><i>
    "Whatever is is, and whatever is not cannot be"
-  </b>
+  </i></b>
 </div>
 <div align="center">
-  <b>
+  <b><i>
    "Being exists, and non-being does not"
-  </b>
+  </i></b>
 </div>
 <br> 
 <p>
