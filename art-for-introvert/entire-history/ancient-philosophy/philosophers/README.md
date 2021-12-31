@@ -42,7 +42,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do you remember the importance of publicity in Greece, the importance of the word in the formation of an idea? A thought only exists after it has been expressed. The world only exists as a being. There is no non-being. Otherwise, it breaks that visibility because something hidden appears. It breaks the harmony and proportionality of the world. Interestingly, as some see it, <b>the culture of Japan is a culture of silence. It is why there is so much emptiness in it, from which something appears. And European culture involves what might be called an absolute of existence</b>, that does not imply any absence. This is why death is not an end, which is an obvious conclusion of this reasoning. The idea of nothingness emerged in the 19th century. It stirred people's minds immensely: because we are so much afraid of it. No one ever created the universe. It just exists. It's primordial. And it is real.
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I would like to offer you an illustrative poem by Joseph Brodsky to show you how these ancient thoughts were born and how they continue to exist in people's minds and art. Let me recite it: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I would like to offer you an <b>illustrative poem by Joseph Brodsky</b> to show you how these ancient thoughts were born and how they continue to exist in people's minds and art. Let me recite it: 
 </p>
  
   >"I loved you. Love still (it is possible <br>
@@ -56,6 +56,10 @@
   as God grant to you by others - but He won't!<br>
   He, being of many capabilities,<br>
   will not create - according to Parmenides - twice."<br>
+  this fever in my blood, [this] broad-boned crackling<br>
+  [such] that the fillings would melt in my jaws [muzzle] out<br>
+  of the desire [thirst]<br>
+  to touch - "[your] bust" I delete - [your] lips
   
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
