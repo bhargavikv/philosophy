@@ -29,7 +29,6 @@
    "Whatever is is, and whatever is not cannot be"
   </b>
 </div>
-<br>
 <div align="center">
   <b>
    "Being exists, and non-being does not"
