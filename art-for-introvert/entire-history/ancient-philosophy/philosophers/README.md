@@ -134,7 +134,7 @@
 <br> 
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let us analyze them. "I know that I know nothing" means that I understand the extent of my lack of knowledge. I do not stick to a mythological way of thinking that knows the answers. The postulate of mythological thinking was "I accept the knowledge that is given to me." Socrates, however, considered himself unknowing yet willing to know and striving for wisdom. In that sense, Socrates started that search for the truth about man, the world, and its origins. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let us analyze them. "I know that I know nothing" means that I understand the extent of my lack of knowledge. I do not stick to a mythological way of thinking that knows the answers. The <b>postulate of mythological thinking was "I accept the knowledge that is given to me</b>". Socrates, however, considered himself unknowing yet willing to know and striving for wisdom. In that sense, Socrates started that search for the truth about man, the world, and its origins. 
 </p>
 
 <p>
