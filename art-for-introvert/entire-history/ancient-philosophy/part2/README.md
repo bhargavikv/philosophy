@@ -53,8 +53,14 @@ It means, this type of thinking became a paradigm of European culture. Speaking 
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The cosmos was built according to certain canons. In that cosmos, everything followed a structure, Moirai, fate. Gods and humans were ruled by fate. It was something they had in common. Ancient Greek culture started with Homer's epos, it started with poetry. <b>Ancient Greek writing originated in poetic writing. Actually, the understanding of the world found expression in poetry</b>. We can notice that in epos, the general prevails over the particular. A fateful determination prevails over the private and individual in ancient Greek culture. In essence, the ancient Greek civilization moved from the dominance of the general to that of the specific, to the individual way of world perception. This was the way ancient Greek dramaturgy developed. An important thing to understand here is that <b>fate was just a power that brought harmonious and proportional order to the cosmos</b>.
+The cosmos was built according to certain canons. In that cosmos, everything followed a structure, Moirai, fate. Gods and humans were ruled by fate. It was something they had in common. Ancient Greek culture started with Homer's epos, it started with poetry. <b>Ancient Greek writing originated in poetic writing. Actually, the understanding of the world found expression in poetry</b>. We can notice that in epos, the general prevails over the particular. A fateful determination prevails over the private and individual in ancient Greek culture. In essence, the ancient Greek civilization moved from the dominance of the general to that of the specific, to the individual way of world perception. This was the way ancient Greek dramaturgy developed. An important thing to understand here is that
 </p>
+<div align="center">
+  <b><i>
+   fate was just a power that brought harmonious and proportional order to the cosmos
+  </i></b>
+</div>
+<br>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, this is where the ancient Greek aesthetic comes from. Ancient Greek art rested on the principle of proportions and beauty. Everybody had their place in that harmonious cosmos. And the best scenario one could realize in life was to occupy the right place in it. The moment a person or a god violated that harmony, the cosmos brought them back to their place. In Aeschylus's <i>The Oresteia</i> Agamemnon kills his daughter, after that he gets killed by his wife, and then Orestes comes and kills his own mother, Agamemnon's wife. Thus, there is a whole cosmos and there is a law of predestination, a law of fate. Humanity and all gods occupy a certain place in it. <b>You will succeed if you restore the harmony of that cosmos</b>.
 </p>
