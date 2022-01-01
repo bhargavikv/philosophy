@@ -7,7 +7,7 @@ Let's go to the roots of philosophy and follow its development from mythological
 
 #### PRINCIPLE OF GUILT AND REWARD
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking now at its foundations, the principle of guilt and reward is worth mentioning. <b>In mythology, whatever goes on obeys the law of cause-effect</b>. In other words, if you commit something immorally wrong and are guilty, consequently, you get what you deserve. The revenge inevitably comes after. Generally, the mythological worldview has still been present in our culture. We can find the echoes of it in our language and mentality even today. More simply, when something happens in your life, or you hit your pinky toe, you ask why you deserved it all. This is how your mythological thinking reveals itself. You try to find out for what actions in the past you have just been punished. Of course, that's an everyday example. When it comes to ancient legends, everything is on a bigger scale, for they tell about heroes killing each other: a father killing his son, a son killing his mother, and the like. I hope you now have an idea of how it all hangs together.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking now at its foundations, the principle of guilt and reward is worth mentioning. <b>In mythology, whatever goes on obeys the law of cause-effect</b>. In other words, if you commit something immorally wrong and are guilty, consequently, you get what you deserve. The revenge inevitably<a href="#m3" id="w3"><sup>[3]</sup></a> comes after. Generally, the mythological worldview has still been present in our culture. We can find the echoes of it in our language and mentality even today. More simply, when something happens in your life, or you hit your pinky toe, you ask why you deserved it all. This is how your mythological thinking reveals itself. You try to find out for what actions in the past you have just been punished. Of course, that's an everyday example. When it comes to ancient legends, everything is on a bigger scale, for they tell about heroes killing each other: a father killing his son, a son killing his mother, and the like. I hope you now have an idea of how it all hangs together.
 </p>
 
 <p>
@@ -17,3 +17,4 @@ Let's go to the roots of philosophy and follow its development from mythological
 #### Meanings and Notes 
   - <a id="m1"></a> [endow](#w1) = provide <br>
   - <a id="m2"></a> [all-encompassing](#w2) = all-inclusive <br>
+  - <a id="m3"></a> [inevitably](#w3) = unavoidably <br>
