@@ -5,16 +5,16 @@ Let us say a few words about Homer.
 Most likely, he lived around the 8th century BC and told the story about the Trojan War, which had taken place 200-300 years before. However, we saw a documented version of the Iliad and the Odyssey in the 6th century BC only, two centuries after the approximate date of Homer's death. And of course, there is a <b>question of the authorship of the Iliad and the Odyssey</b>. According to one theory, they were created by wandering poets that told myths. You remember that the Iliad describes the 10th year of the siege<a href="#m1" id="w1"><sup>[1]</sup></a> of Troy (in reality, there were slightly more than 50 days of the siege.) And the Odyssey tells the story of Odysseus, on his way back home to Ithaka after the Trojan War. We see pieces of general myths, which were familiar to all ancient Greeks.
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, <b> the entire European literature is divided into the Iliad and the Odyssey. </b>And there is an element of truth in this phrase. He formed the  cultural paradigms that can be found in the medieval journey of a soul to God, in Dante's Divine Comedy, in Goethe's Faust, in Joyce's Ulysses, in Don Quixote: they all narrate about a path. A European is an eternal traveler, an ever-returning prodigal son<a href="#m2" id="w2"><sup>[2]</sup></a>. It is all encompassed<a href="#m3" id="w3"><sup>[3]</sup></a> in the tradition of the development of Odysseus's image. And Homer's contribution is paramount here.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both the Iliad and the Odyssey are controversial texts. Sometimes they seem to have been compiled from different sources. But anyway, they lie at the foundation of European culture. Homer formed basic paradigms, basic patterns of European literature. As it was said by some researcher, <b> the entire European literature is divided into the Iliad and the Odyssey. </b>And there is an element of truth in this phrase. He formed the  cultural paradigms that can be found in the medieval journey of a soul to God, in Dante's Divine Comedy, in Goethe's Faust, in Joyce's Ulysses, in Don Quixote: they all narrate about a path. A European is an eternal traveler, an ever-returning prodigal son<a href="#m2" id="w2"><sup>[2]</sup></a>. It is all encompassed in the tradition of the development of Odysseus's image. And Homer's contribution is paramount here.
 </p>
 
 ### ABOUT HIS TEXTS
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First of all, they delineate<a href="#m4" id="w4"><sup>[4]</sup></a> real gods, letting the reader actually grasp what human-like gods were like. Gods were participants of wars. They helped humans and gave them weapons, fought, and reconciled<a href="#m5" id="w5"><sup>[5]</sup></a>. That means, gods took an active part in the events of the Iliad and the Odyssey. I must say, Homer's texts were written in a language no one spoke. To be more accurate, they combine almost all dialects of the ancient world. It wasn't the language of a particular island or a polis. Essentially, Homer created a universal compilation. This is why there are questions about whether it was one person or a group of poets, whose art goes by his name. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First of all, they delineate<a href="#m3" id="w3"><sup>[3]</sup></a> real gods, letting the reader actually grasp what human-like gods were like. Gods were participants of wars. They helped humans and gave them weapons, fought, and reconciled<a href="#m4" id="w4"><sup>[4]</sup></a>. That means, gods took an active part in the events of the Iliad and the Odyssey. I must say, Homer's texts were written in a language no one spoke. To be more accurate, they combine almost all dialects of the ancient world. It wasn't the language of a particular island or a polis. Essentially, Homer created a universal compilation. This is why there are questions about whether it was one person or a group of poets, whose art goes by his name. 
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mind that Homer's works are not rife<a href="#m6" id="w6"><sup>[6]</sup></a> with any psychologism. In Homer's interpretation, a <b>human is a vessel which collects the gestures, emotions, and passion conveyed by gods</b>. The Iliad starts with Achilles' anger. But anger is not something Achilles is born with. It is Ares' anger that comes to him and is manifested through him. I continue the idea that the ancient Greek world is the world of the demonstrated, of the external. This is why the motivation of the characters and all their feelings, passion, and emotions can be clearly seen. They are finely demonstrated. It is not an inner world, it always is the world of the external, which is characteristic of Homer's works.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mind that Homer's works are not rife<a href="#m5" id="w5"><sup>[5]</sup></a> with any psychologism. In Homer's interpretation, a <b>human is a vessel which collects the gestures, emotions, and passion conveyed by gods</b>. The Iliad starts with Achilles' anger. But anger is not something Achilles is born with. It is Ares' anger that comes to him and is manifested through him. I continue the idea that the ancient Greek world is the world of the demonstrated, of the external. This is why the motivation of the characters and all their feelings, passion, and emotions can be clearly seen. They are finely demonstrated. It is not an inner world, it always is the world of the external, which is characteristic of Homer's works.
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of course, we should understand that every new generation forms a new interpretation of classic texts. By the way, it is quite common in Europe. But we should keep in mind that, by translating Homer even today, we enrich our culture and language. We do not just retell Homer. This is why the diversity of interpretations that appears in culture is so highly valued. 
@@ -25,8 +25,8 @@ Most likely, he lived around the 8th century BC and told the story about the Tro
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we start discussing the first philosophers, I would like to recall the basic terms. In general, philosophy strongly depends on language. It is closely connected to it. Now let me touch upon some subject terms. First of all
 
-  - <b>Ananke</b>, Inevitability<a href="#m7" id="w7"><sup>[7]</sup></a> (necessity<a href="#m8" id="w8"><sup>[8]</sup></a>). It is a force that drives cosmic motion and reconstitutes order (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
-  - <b>Arete</b>, means valor<a href="#m9" id="w9"><sup>[9]</sup></a>. expression of one's maximum potential <br>
+  - <b>Ananke</b>, Inevitability (necessity). It is a force that drives cosmic motion and reconstitutes order (or) It is an ancient philosophical term describing the power, coercion, or necessity that defines human actions and cosmic events
+  - <b>Arete</b>, means valor<a href="#m6" id="w6"><sup>[6]</sup></a>. expression of one's maximum potential <br>
      the valor of a hero consists in the fullest realization of his being as a warrior or the nature of a warrior. <br>
      "Arete" describes such a valor that is connected with the fullest realization of the corresponding nature, the fate of being someone. And if this is true, one could also speak about the arete of a horse for example. <br>
      Remember, one was supposed to occupy a harmonious place in this world and realize one's fullest potential, extreme valor. 
@@ -68,7 +68,7 @@ number and a rhythm: arithmos and rhythmos.
 2. **Behind the visible diversity of the world, hides an inner beauty**
 3. **Systematic and simple**
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity<a href="#m10" id="w10"><sup>[10]</sup></a>, which makes a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, as Pythagoras believed, everything is diverse yet united. Unity comes from multiplicity<a href="#m7" id="w7"><sup>[7]</sup></a>, which makes a system. Ancient people considered the world as structured yet very simple. They tried to find the simplest possible way to answer the original question.
 </p>
 
 4. **Everything is nature**
@@ -98,11 +98,8 @@ Then, let us touch upon Anaximander. According to him: <b>"The things that are p
 #### Meanings and Notes 
 - <a id="m1"></a> [siege](#w1) - a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender <br>
 - <a id="m2"></a> [prodigal son](#w2) - a person who has left his family in order to do something that the family disapprove of and has now returned home feeling sorry for what he has done <br>
-- <a id="m3"></a> [encompassed](#w3) - covered <br>
-- <a id="m4"></a> [delineate](#w4) - describe precisely <br> 
-- <a id="m5"></a> [reconcile](#w5) - restore friendly relations between <br>
-- <a id="m6"></a> [rife](#w6) - of common occurence <br> 
-- <a id="m7"></a> [evitable](#w7) - avoidable <br> 
-- <a id="m8"></a> [necessity](#w8) - anything necessary <br>
-- <a id="m9"></a> [valor](#w9) - the qualities of a hero; exceptional courage <br> 
-- <a id="m10"></a> [multiplicity](#w10) - a large number or variety <br> 
+- <a id="m3"></a> [delineate](#w3) - describe precisely <br> 
+- <a id="m4"></a> [reconcile](#w4) - restore friendly relations between <br>
+- <a id="m5"></a> [rife](#w5) - of common occurence <br> 
+- <a id="m6"></a> [valor](#w6) - the qualities of a hero; exceptional courage <br> 
+- <a id="m7"></a> [multiplicity](#w7) - a large number or variety <br> 
