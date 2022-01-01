@@ -24,7 +24,7 @@ Let's go to the roots of philosophy and follow its development from mythological
 </p>
 <div align="center">
   <b><i>
-    entire European philosophy was built on Plato's marginal notes
+    entire European philosophy was built on Plato's marginal<a href="#m7" id="w7"><sup>[7]</sup></a> notes
   </i></b>
 </div>
 <br>
@@ -41,4 +41,5 @@ It means, this type of thinking became a paradigm of European culture. Speaking 
   - <a id="m3"></a> [inevitably](#w3) = unavoidably <br>
   - <a id="m4"></a> [antiquity](#w4) = the ancient past, especially the period of classical and other human civilizations before the Middle Ages <br>
   - <a id="m5"></a> [polis](#w5) = a city state in ancient Greece, especially as considered in its ideal form for philosophical purposes  <b>poleis</b>(plural) <br>
-  - <a id="m6"></a> [disjointed](#w6) = unconnected, discontinuous <br> 
+  - <a id="m6"></a> [disjointed](#w6) = unconnected, discontinuous <br>
+  - <a id="m7"></a> [marginal](#w7) = minimal <br>
