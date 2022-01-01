@@ -1,5 +1,5 @@
-[1.Introduction](introduction)
-[]()
-[3.homer](homer)
-[4.philosophers](philosophers)
+[1.Introduction](introduction) <br>
+[]() <br>
+[3.homer](homer) <br>
+[4.philosophers](philosophers) <br>
 []()
