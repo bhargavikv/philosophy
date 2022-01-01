@@ -25,4 +25,4 @@ Let's go to the roots of philosophy and follow its development from mythological
   - <a id="m3"></a> [inevitably](#w3) = unavoidably <br>
   - <a id="m4"></a> [antiquity](#w4) = the ancient past, especially the period of classical and other human civilizations before the Middle Ages <br>
   - <a id="m5"></a> [polis](#w5) = a city state in ancient Greece, especially as considered in its ideal form for philosophical purposes  <b>poleis</b>(plural) <br>
-  - <a id="m6"></a> [disjointed](#w3) = unconnected, discontinuous <br> 
+  - <a id="m6"></a> [disjointed](#w6) = unconnected, discontinuous <br> 
