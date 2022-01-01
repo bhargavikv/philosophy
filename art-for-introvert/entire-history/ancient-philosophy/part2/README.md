@@ -57,7 +57,7 @@ The cosmos was built according to certain canons. In that cosmos, everything fol
 </p>
 <div align="center">
   <b><i>
-   fate was just a power that brought harmonious and proportional order to the cosmos
+   Fate was just a power that brought harmonious and proportional order to the cosmos
   </i></b>
 </div>
 <br>
