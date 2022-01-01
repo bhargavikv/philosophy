@@ -47,7 +47,7 @@ It means, this type of thinking became a paradigm of European culture. Speaking 
 </p>
 
 3. **Understanding of Cosmos**
-4. **About Religion**
+4. **About Religion and Gods**
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There was a unified understanding of the cosmos in ancient Greece. The ancient Greek world was seen as entire, proportional, and beautiful. This was a cosmocentric culture. Gods and humans were believed to inhabit the same space, the same territory. Generally, ancient Greek gods are so very human. If you read Homer, you will get to see that gods betray, fight, or lie to each other. They sometimes behave worse than people. This is why gods are not moral authorities there; in ancient Greece, <b>it is philosophy that focuses on morality, not religion</b>, at least what we understand as religion. In essence, there was no religion in ancient Greece. It was a bit different. Gods were quite like humans. Apart from having supernatural features, being powerful, they were immortal. On the contrary, people were not. But gods were within easy reach: the ancient society maintained a relatively direct conversation with them. Gods were believed to give you support and help in some way if you made a sacrifice. They were not worshipped blindly, even though, of course, there was a culture of worship. But humans were thought to be able to communicate with them more directly than in Christianity.
 </p>
