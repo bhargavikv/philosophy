@@ -29,7 +29,7 @@
 </div>
 <br> 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, before plunging into the philosophy of ancient times, I would like to mention a significant point in the history of philosophy of the 20th century. Philosophy arises as a salvation of the human from despair. We lose our values and we lose connection to reality. An understandable world that we know crumbles. Philosophy arises on the ruins of the previous values of the world. It appears when we lose support - ideological and religious. We can no longer comprehend reality the way we used to. Heidegger said, that <b>"philosophy is the desire to be at home everywhere"</b>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Philosophy arises as a salvation of the human from despair. We lose our values and we lose connection to reality. An understandable world that we know crumbles. Philosophy arises on the ruins of the previous values of the world. It appears when we lose support - ideological and religious. We can no longer comprehend reality the way we used to. Heidegger said, that <b>"philosophy is the desire to be at home everywhere"</b>.
 </p>
   
 <p>
