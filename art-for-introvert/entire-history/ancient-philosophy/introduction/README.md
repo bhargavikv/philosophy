@@ -29,7 +29,7 @@
 </div>
 <br> 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, before plunging into the philosophy of ancient times, I would like to mention a significant point in the history of philosophy of the 20th century. Philosophy arises as a salvation of the human from despair. We lose our values and we lose connection to reality. An understandable world that we know crumbles. Philosophy arises on the ruins of the previous values of the world. It appears when we lose support - ideological and religious. We can no longer comprehend reality the way we used to. Here is the last thing I would like to say in the conclusion of my introduction. It's incredibly important. Heidegger said, that <b>"philosophy is the desire to be at home everywhere"</b>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, before plunging into the philosophy of ancient times, I would like to mention a significant point in the history of philosophy of the 20th century. Philosophy arises as a salvation of the human from despair. We lose our values and we lose connection to reality. An understandable world that we know crumbles. Philosophy arises on the ruins of the previous values of the world. It appears when we lose support - ideological and religious. We can no longer comprehend reality the way we used to. Heidegger said, that <b>"philosophy is the desire to be at home everywhere"</b>.
 </p>
   
 <p>
@@ -41,7 +41,7 @@
 </div>
 <br> 
 <p>
-<b>Science is another means to comprehend the surrounding world</b>. We learn its physical laws and thus discover the way it works. Culture offers us several options of how to get the full knowledge of the world, several worldview systems. In many ways, they all have much in common. All of them are to protect you. By the way, Freud wrote about it in <i>The Future of an Illusion.</i> To conclude the introduction, I'd like to say that, unlike other sciences, philosophy serves as a tool for cognition and comprehension of the world around us, ourselves, and our place in it. 
+Science is another means to comprehend the surrounding world. We learn its physical laws and thus discover the way it works. Culture offers us several options of how to get the full knowledge of the world, several worldview systems. In many ways, they all have much in common. All of them are to protect you. By the way, Freud wrote about it in <i>The Future of an Illusion.</i> To conclude the introduction, I'd like to say that, unlike other sciences, philosophy serves as a tool for cognition and comprehension of the world around us, ourselves, and our place in it. 
   
 #### Meanings and Notes 
 - <a id="m1"></a> [cognize](#w1) - know <br>
