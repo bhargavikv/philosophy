@@ -1,6 +1,6 @@
 # Philosophy 
 
-### WHAT IS PHILOSOPHY
+### WHAT IS IT ?
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Philosophical knowledge always requires an in-depth analysis and reflection. We will discover the diversity of world perceptions that philosophy offers: from ancient times up to the 21st century. <b>Any philosophical discussion begins with defining what philosophy is</b>. Actually, this is the question every new generation of philosophers tackles. They attempt to identify the limits, boundaries, possibilities, and the object of philosophy. As we know, <b>any natural science - physics, chemistry, or biology - has an object of study</b>. Physics studies the laws of the universe, biology deals with living beings, and so on. So, sciences have an object they focus on. Turning to philosophy, <b>it is a field without an object of investigation. Rather, the object of philosophy is philosophy itself</b>. The key thing here is, philosophical knowledge is not exactly scientific, regardless of how harsh it might sound.
 </p>
