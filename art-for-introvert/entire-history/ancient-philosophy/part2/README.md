@@ -15,5 +15,5 @@ Let's go to the roots of philosophy and follow its development from mythological
   
   
 #### Meanings and Notes 
-  - <a id="m1"></a> [endow](#w1) - provide <br>
-  - <a id="m2"></a> [all-encompassing](#w2) - all-inclusive <br>
+  - <a id="m1"></a> [endow](#w1) = provide <br>
+  - <a id="m2"></a> [all-encompassing](#w2) = all-inclusive <br>
