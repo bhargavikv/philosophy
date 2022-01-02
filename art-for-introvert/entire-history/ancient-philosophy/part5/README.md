@@ -82,7 +82,7 @@ Philosophy means striving for death. This is why philosophical knowledge is the 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plato criticized myth and art. You see, art is just an imitation of reality, even though he created myths and was not embarrassed by that.
 </p>
 <p>
-Additionally, let me in a few words describe the concept of the state according to Plato, his ideal Republic. Plato had an idea of what a perfect state should be like. It should consist of guardians, auxiliaries<a href="#m7" id="w7"><sup>[7]</sup></a>, and craftsmen. So, he suggested that people should be educated in the following virtues: wisdom, courage, and temperance. These combinations are found in our souls and can be mainstreamed within a political regime. The <i>Allegory of the Cave</i> was also mentioned in this work to display how the good can be achieved.
+Additionally, let me in a few words describe the concept of the state according to Plato, his ideal Republic. Plato had an idea of what a perfect state should be like. It should consist of guardians, auxiliaries<a href="#m8" id="w8"><sup>[8]</sup></a>, and craftsmen. So, he suggested that people should be educated in the following virtues: wisdom, courage, and temperance. These combinations are found in our souls and can be mainstreamed within a political regime. The <i>Allegory of the Cave</i> was also mentioned in this work to display how the good can be achieved.
 </p>
 
 ### Androgyne's myth
