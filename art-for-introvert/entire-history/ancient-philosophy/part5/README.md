@@ -68,7 +68,7 @@ Philosophy means striving for death. This is why philosophical knowledge is the 
 ### Plato's Ideas
 1. <b>The knowledge about ideal essences is inherent<a href="#m5" id="w5"><sup>[5]</sup></a> and innate<a href="#m6" id="w6"><sup>[6]</sup></a></b>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The knowledge of ideal essences is a priori important. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The knowledge of ideal essences is a priori<a href="#m7" id="w7"><sup>[7]</sup></a> important. 
 </p>
 
 2. **The knowledge about ideal essences is inherent and innate**
@@ -82,7 +82,7 @@ We initially possess the knowledge of everything, we just have to recall it. Edu
 - <a id="m4"></a> [assimilation](#w4) - the process of taking in and fully understanding information or ideas <br>
 - <a id="m5"></a> [inherent](#w5) - built-in <br>
 - <a id="m6"></a> [innate](#w6) - originating in the mind <br>
-- <a id="m7"></a> [resort](#w7) - fall back <br>
+- <a id="m7"></a> [priori](#w7) - theoretical <br>
 - <a id="m8"></a> [resort](#w8) - fall back <br>
 - <a id="m9"></a> [resort](#w9) - fall back <br>
 - <a id="m10"></a> [resort](#w10) - fall back <br>
