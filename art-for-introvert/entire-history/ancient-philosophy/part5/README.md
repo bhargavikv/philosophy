@@ -113,18 +113,20 @@ Aristotle changed Plato's concept significantly. Remember Raphael's famous <i>Sc
 ### Aristotle's Ideas
 
 1. **Experience is the knowledge of particular things, Art is the knowledge of the universal**
-
-This is why art had a much more privileged status for Aristotle than for Plato.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is why art had a much more privileged status for Aristotle than for Plato.
+</p>
 
 2. **For Plato, the universal, the idea comes first. But it is first the sensory and individual essence that is important to Aristotle.**
 
 3. **Philosophy is the only free science because it exists for itself**
-
-He reflected upon philosophy, which has only one object of study - itself.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He reflected upon philosophy, which has only one object of study - itself.
+</p>
 
 4. **Plato is not interested in changes and motion. Aristotle reflects on it**
-
-He says, a thing always has four causes, meaning - for every remote control, cup, phone, there are four causes. Due to formal cause, an essence has a form. Speaking of matter, there is the material cause. Then comes the source, where the movement begins, hence, the efficient cause. And the final cause is purpose. According to Aristotle, you cannot perceive things stripped of their causes. The matter is impossible without form. We always see essences as a combination of all causes.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He says, a thing always has four causes, meaning - for every remote control, cup, phone, there are four causes. Due to formal cause, an essence has a form. Speaking of matter, there is the material cause. Then comes the source, where the movement begins, hence, the efficient cause. And the final cause is purpose. According to Aristotle, you cannot perceive things stripped of their causes. The matter is impossible without form. We always see essences as a combination of all causes.
 </p>
 <div align="center">
   <img src="four-causes.png" alt="four-causes" width="400" height="200">
