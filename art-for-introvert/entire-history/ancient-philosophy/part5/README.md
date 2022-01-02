@@ -11,7 +11,7 @@
   </i></b>
 </div>
 <br>
-This is why there are no poets in Plato's Republic, not even poets like Homer. Because they do not tell the truth about things. They create images of objects, illusionary knowledge, which should not exist. This is why Plato was quite harsh when it came to art, even though he resorted<a href="#m2" id="w2"><sup>[2]</sup></a> to myths. Anyway, Plato's <i>Cave</i> is probably his most famous myth. So, what is the allegory of the cave in Plato's Republic? 
+This is why there are no poets in Plato's Republic, not even poets like Homer. Because they do not tell the truth about things. They create images of objects, illusionary knowledge, which should not exist. This is why Plato was quite harsh when it came to art, even though he resorted<a href="#m2" id="w2"><sup>[2]</sup></a> to myths. Anyway, Plato's <i>Cave</i> is probably his most famous myth. So, what is the allegory of the cave in Plato's Republic? <br>
 <div align="center">
   <img src="plato-cave.jpeg" alt="allegory of the cave" width="500" height="300">
 </div>
