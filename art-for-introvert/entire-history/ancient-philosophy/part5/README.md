@@ -31,7 +31,8 @@ So, imagine, that we are locked in a cave forever. Moreover, we are tied to a wa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let's understand Plato's concept of death and his understanding of philosophy. Plato gave much thought to what philosophy is, where it emanates from. He developed a concept of eidos - something knowing, whole, good, beautiful, and so on. It is embodied in the human body, in some sort of a dungeon<a href="#m3" id="w3"><sup>[3]</sup></a> . Our real being is the being of eidos. And we are locked in what can be called a shell. And we interact with the world through it. It means that we live in a dream. The truth is there, where the eidos is. Life is a dream. According to Plato, death is not the end. We know that in both mythology and religion, up to the 19th and 20th centuries, death didn't mean "nothingness."
 </p>
 
-> Death is the liberation of the immortal spirit from the dungeon of the mortal body
+> Death is the liberation of the immortal spirit from the dungeon of the mortal body.
+
 Even science originally attempted to unveil what comes after death, supposing there is something after death. Plato believed that there couldn't be nothingness after it. Here's what he said, 
  <div align="center">
   <b><i>
