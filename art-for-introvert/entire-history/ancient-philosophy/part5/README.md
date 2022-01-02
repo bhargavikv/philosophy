@@ -89,6 +89,9 @@ Additionally, let me in a few words describe the concept of the state according 
 </p>
 
 ### Androgyne's myth
+<div align="center">
+  <img src="androgyne-myth.png" alt="androgyne-myth" width="500" height="300">
+</div>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last thing that I would like to mention about Plato is, of course, the <i>Myth of the Androgyne</i> described in the <i>Symposium<a href="#m10" id="w10"><sup>[10]</sup></a>,</i> which you should definitely read. Long story short, initially, the human being was whole and had two heads, four arms, four legs. It was so powerful that it started to argue with gods. For which, it was split into two halves. This is how two halves appeared and were destined to look for one another to regain their initial might and power. In many ways, this is the <b>origin of the story about the search for one's better half</b> which appeared in Plato's writings. But let us move on to his disciple, the teacher of Alexander of Macedon.
 </p>
