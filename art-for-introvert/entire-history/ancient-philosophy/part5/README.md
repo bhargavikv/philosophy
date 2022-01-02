@@ -90,7 +90,7 @@ Additionally, let me in a few words describe the concept of the state according 
 
 ### Androgyne's myth
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last thing that I would like to mention about Plato is, of course, the <i>Myth of the Androgyne</i> described in the <i>Symposium,</i> which you should definitely read. Long story short, initially, the human being was whole and had two heads, four arms, four legs. It was so powerful that it started to argue with gods. For which, it was split into two halves. This is how two halves appeared and were destined to look for one another to regain their initial might and power. In many ways, this is the <b>origin of the story about the search for one's better half</b> which appeared in Plato's writings. But let us move on to his disciple, the teacher of Alexander of Macedon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The last thing that I would like to mention about Plato is, of course, the <i>Myth of the Androgyne</i> described in the <i>Symposium<a href="#m10" id="w10"><sup>[10]</sup></a>,</i> which you should definitely read. Long story short, initially, the human being was whole and had two heads, four arms, four legs. It was so powerful that it started to argue with gods. For which, it was split into two halves. This is how two halves appeared and were destined to look for one another to regain their initial might and power. In many ways, this is the <b>origin of the story about the search for one's better half</b> which appeared in Plato's writings. But let us move on to his disciple, the teacher of Alexander of Macedon.
 </p>
 
 ### ARISTOTLE (around 384 BC - 322 BC)
@@ -108,4 +108,9 @@ Additionally, let me in a few words describe the concept of the state according 
 - <a id="m7"></a> [priori](#w7) - theoretical <br>
 - <a id="m8"></a> [auxiliaries](#w8) - volunteers <br>
 - <a id="m9"></a> [temperance](#w9) - self-control <br>
-- <a id="m10"></a> [resort](#w10) - fall back <br>
+- <a id="m10"></a> [Symposium](#w10) - philosophical text by Plato dated c. 385–370 BC <br>
+- <a id="m11"></a> [resort](#w11) - fall back <br>
+- <a id="m12"></a> [resort](#w12) - fall back <br>
+- <a id="m13"></a> [resort](#w13) - fall back <br>
+- <a id="m14"></a> [resort](#w14) - fall back <br>
+- <a id="m15"></a> [resort](#w15) - fall back <br>
