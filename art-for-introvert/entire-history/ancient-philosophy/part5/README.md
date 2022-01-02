@@ -113,13 +113,13 @@ Aristotle changed Plato's concept significantly. Remember Raphael's famous <i>Sc
 ### Aristotle's Ideas
 
 1. **Experience is the knowledge of particular things, Art is the knowledge of the universal**
+
 This is why art had a much more privileged status for Aristotle than for Plato.
 
-2. **Philosophy is the only free science because it exists for itself**
+2. **For Plato, the universal, the idea comes first. But it is first the sensory and individual essence that is important to Aristotle.**
 
 3. **Philosophy is the only free science because it exists for itself**
 
-3. **Philosophy is the only free science because it exists for itself**
 He reflected upon philosophy, which has only one object of study - itself.
 
 4. **Plato is not interested in changes and motion. Aristotle reflects on it**
