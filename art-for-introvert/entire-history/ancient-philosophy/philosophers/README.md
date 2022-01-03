@@ -171,6 +171,6 @@
 </p>
 
 #### Meanings and Notes 
-  <a id="m1"></a> [pathos](#w1) = tragedy <br>
-  <a id="m2"></a> [eidos](#w2) = type, form, species <br>
-  <a id="m3"></a> [oblivion](#w3) = unconsciousness <br>
+  - <a id="m1"></a> [pathos](#w1) = tragedy <br>
+  - <a id="m2"></a> [eidos](#w2) = type, form, species <br>
+  - <a id="m3"></a> [oblivion](#w3) = unconsciousness <br>
