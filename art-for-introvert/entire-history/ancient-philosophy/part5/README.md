@@ -136,11 +136,11 @@ But matter is unfathomable<a href="#m11" id="w11"><sup>[11]</sup></a>, we only k
 <p>
 Aristotle also started to systematize philosophical knowledge, differentiate between theoretical and practical philosophy. Actually, theoretical philosophy contemplates reality. The practical or the moral philosophy deals with how ethical principles can be put to work in life. 
 </p>
-<div align="center" style="text-align: center;">
+<div align="center">
 <table>
   <tr><th>Theoretical Philosophy</th><th>Practical Philosophy</th></tr>
   <tr><td>contemplative</td><td>moral</td></tr>
-  <tr><td>reality</td><td style="text-align: center;">possibility</td></tr>
+  <tr><td>reality</td><td>possibility</td></tr>
   <tr><td>the real</td><td>the necessary</td></tr>
 </table>
 </div>
