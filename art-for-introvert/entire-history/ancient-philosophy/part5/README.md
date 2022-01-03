@@ -140,7 +140,7 @@ Aristotle also started to systematize philosophical knowledge, differentiate bet
 <table>
   <tr><th>Theoretical Philosophy</th><th>Practical Philosophy</th></tr>
   <tr><td>contemplative</td><td>moral</td></tr>
-  <tr><td>reality</td><td>possibility</td></tr>
+  <tr><td>reality</td><td style="text-align: center">possibility</td></tr>
   <tr><td>the real</td><td>the necessary</td></tr>
 </table>
 </div>
