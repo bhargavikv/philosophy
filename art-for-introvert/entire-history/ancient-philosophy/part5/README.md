@@ -1,5 +1,4 @@
- <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In fact, philosophy did not replace mythology. As you remember, mythology exists to this day. In this sense, <b>there are no clear boundaries between all these worldviews</b>. Plato's works are underpinned<a href="#m1" id="w1"><sup>[1]</sup></a> by myth. According to Plato,
+In fact, philosophy did not replace mythology. As you remember, mythology exists to this day. In this sense, <b>there are no clear boundaries between all these worldviews</b>. Plato's works are underpinned<a href="#m1" id="w1"><sup>[1]</sup></a> by myth. According to Plato,
 <div align="center">
   <b><i>
     art is an imitation of reality
